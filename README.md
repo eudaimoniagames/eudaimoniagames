@@ -1,6 +1,6 @@
 # Welcome to Eudaimonia Games!
 
-Our favorite part of gaming is reaching that flow state where the player is almost possessed by the game. Our name reflects this engaging, satisfying state of being.
+Our favorite part of gaming is reaching that flow state where the player feels almost possessed by the game. Our name reflects this engaging, satisfying state of being.
 
 The word [eudaimonia/εὐδαιμονία](https://en.wikipedia.org/wiki/Eudaimonia) (you-die-moan-ee-uh) originates from Ancient Greek, literally translating to "the state or condition of good spirit." Breakdown:
 - Prefix - [eu-/εὖ-](https://en.wiktionary.org/wiki/eu-) (you): Ancient Greek prefix meaning "well, good."
